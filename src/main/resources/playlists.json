@@ -46,19 +46,19 @@
       {
         "name": "夜的第七章",
         "lyric": "Along Huang",
-        "src": "http://10.0.2.2:8080/songs/夜的第七章.mp3",
+        "src": "http://10.0.2.2:8080/songs/yedediqizhang.mp3",
         "length": "3:48"
       },
       {
         "name": "听妈妈的话",
         "lyric": "Jay Chou",
-        "src": "http://10.0.2.2:8080/songs/听妈妈的话.mp3",
+        "src": "http://10.0.2.2:8080/songs/tmmdh.mp3",
         "length": "3:34"
       },
       {
         "name": "菊花台",
         "lyric": "Vincent Fang",
-        "src": "http://10.0.2.2:8080/songs/菊花台.flac",
+        "src": "http://10.0.2.2:8080/songs/jht.flac",
         "length": "4.53"
       }
     ]
@@ -80,7 +80,7 @@
       {
         "name": "綠光",
         "lyric": "Stefanie",
-        "src": "http://10.0.2.2:8080/songs/绿光.mp3",
+        "src": "http://10.0.2.2:8080/songs/lg.mp3",
         "length": "3:31"
       }
     ]
@@ -91,7 +91,7 @@
       {
         "name": "一千年以後",
         "lyric": "JJ Lin",
-        "src": "http://10.0.2.2:8080/songs/一千年以后.mp3",
+        "src": "http://10.0.2.2:8080/songs/yiqiannianyihou.mp3",
         "length": "3:47"
       }
     ]
